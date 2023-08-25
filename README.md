@@ -29,7 +29,7 @@ This application provides a graphical simulation of Snell's Law, which describes
 
 ## Developed by
 
-George Hill
+[George Hill](https://github.com/georgeh1ll)
 
 ## Contributing
 
