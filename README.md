@@ -1,6 +1,10 @@
 ## Disclaimer
 
 This project is a work in progress and may have limitations or incomplete features. Use it at your own discretion.
+To be included:
+- Total Internal Reflection support and angle calculations.
+- Colour boundary between mediums.
+- Arrow heads to show light propagation direction.
 
 # Snell's Law Simulator
 
