@@ -5,6 +5,7 @@ This project is a work in progress and may have limitations or incomplete featur
 # Snell's Law Simulator
 
 Simulate Snell's Law and visualize the behavior of light rays at a medium division.
+![snell](https://github.com/georgeh1ll/Snells-Law-Simulator/assets/11806169/c7ed5a5c-c837-452a-80d0-06dcdb3eb493)
 
 ## Description
 
