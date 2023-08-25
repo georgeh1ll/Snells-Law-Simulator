@@ -12,7 +12,7 @@ This application provides a graphical simulation of Snell's Law, which describes
 
 ## Getting Started
 
-1. Clone this repository to your local machine using: git clone https://github.com/georgeh1ll/Snell-s-Law-Simulator.git
+1. Clone this repository to your local machine using: git clone https://github.com/georgeh1ll/Snells-Law-Simulator.git
 2. Install the required dependencies using the following command: pip install numpy matplotlib tkinter
 3. Run the simulator by executing the `Snell's Law Simulator.py` script:
 
